@@ -1,0 +1,12 @@
+c:\users\lenovo\documents\visual studio 2013\Projects\ArmoTestTasks_Sozdatelev\TestTask1\bin\Debug\TestTask1.exe.config
+C:\Users\Lenovo\documents\visual studio 2013\Projects\ArmoTestTasks_Sozdatelev\TestTask1\bin\Debug\TestTask1.exe
+C:\Users\Lenovo\documents\visual studio 2013\Projects\ArmoTestTasks_Sozdatelev\TestTask1\bin\Debug\TestTask1.pdb
+C:\Users\Lenovo\documents\visual studio 2013\Projects\ArmoTestTasks_Sozdatelev\TestTask1\obj\Debug\TestTask1.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\documents\visual studio 2013\Projects\ArmoTestTasks_Sozdatelev\TestTask1\obj\Debug\TestTask1.Form1.resources
+C:\Users\Lenovo\documents\visual studio 2013\Projects\ArmoTestTasks_Sozdatelev\TestTask1\obj\Debug\TestTask1.Properties.Resources.resources
+C:\Users\Lenovo\documents\visual studio 2013\Projects\ArmoTestTasks_Sozdatelev\TestTask1\obj\Debug\TestTask1.csproj.GenerateResource.Cache
+C:\Users\Lenovo\documents\visual studio 2013\Projects\ArmoTestTasks_Sozdatelev\TestTask1\obj\Debug\TestTask1.exe
+C:\Users\Lenovo\documents\visual studio 2013\Projects\ArmoTestTasks_Sozdatelev\TestTask1\obj\Debug\TestTask1.pdb
+C:\Users\sasha\Downloads\ArmoTestTasks_Sozdatelev\TestTask1\bin\Debug\TestTask1.exe.config
+C:\Users\sasha\Downloads\ArmoTestTasks_Sozdatelev\TestTask1\obj\Debug\TestTask1.exe
+C:\Users\sasha\Downloads\ArmoTestTasks_Sozdatelev\TestTask1\obj\Debug\TestTask1.pdb
